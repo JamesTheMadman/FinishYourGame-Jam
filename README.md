@@ -23,7 +23,7 @@ The deadline for submissions is 12:00 Febuary 18th.
 If you're not on Github or don't know how to use Git, then check out <del>[this handy gif]()</del>, [gitref.org](http://www.gitref.org) or [hit me up on twitter](https://www.twitter.com/Gallefray)
 
 ## Chat!
-There's an IRC channel on afternet on which you can come to talk! :D  
+There's an IRC channel (#7DFYGJ) on [afternet.org](http://afternet.org) on which you can come to talk! :D
 If you don't have anything like XChat installed, here's a [link](https://qwebirc.afternet.org/?channels=7DFYGJ&uio=MTE9MjI2dd).  
 
 and lastly...
