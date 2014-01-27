@@ -1,4 +1,4 @@
-# 7 Day Finish Yer Game (Jam)! (7DFYG(J)) - A game jam :) 
+# 7 Day Finish Yer Game (Jam)!
 #### Febuary 10th - Febuary 17th. 
 #####Hosted by [@Gallefray](https://www.twitter.com/Gallefray)
  
